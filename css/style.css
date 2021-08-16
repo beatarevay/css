@@ -52,8 +52,9 @@ h3 {
     background-color: aliceblue;
 }
 img {
-    width: 200px;
+    width: 12.2%;
     box-shadow: 3px 3px 7px black;
-    margin: 10px;
+    margin: 2%;
   
 }
+#img1 {display: none;}
