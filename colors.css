@@ -2,6 +2,11 @@
     display: inline-block;
     width: 100px;
     height: 100px;
-    background-color: darkblue;
-    color: darkred;
+    background-color: rgb(100, 20, 200);
+    color: blacks;
+}
+
+html {
+    background: url('img/background.jpeg')
+    
 }
